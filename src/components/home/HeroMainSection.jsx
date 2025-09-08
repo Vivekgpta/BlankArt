@@ -25,7 +25,7 @@ const HeroMainSection = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 3.2, delay: 2.3, ease: "easeOut" }}
         > <h1 className="text-5xl relative md:text-8xl font-bold text-pink-950">
-          <span className="text-[#fcfcfc]">Brilliant</span> Mind.</h1>
+          <span className="text-[#ff5c8f]">Brilliant</span> Mind.</h1>
         </motion.h2>
       </motion.div>
 
@@ -68,3 +68,4 @@ const HeroMainSection = () => {
 }
 
 export default HeroMainSection
+

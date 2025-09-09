@@ -54,7 +54,7 @@ export default function OurClientFeedback() {
 
       {/* Carousel */}
       <div className="relative mx-auto mt-10 w-full max-w-6xl h-[420px] select-none">
-        <div className="relative w-full h-full perspective-[1200px] overflow-visible">
+        <div className="relative w-full h-full perspective-[1200px] overflow-hidden">
           {windowItems.map(({ pos, offset }) => {
             const item = projects[pos];
 
@@ -126,3 +126,4 @@ function Card({ item, active }) {
     </motion.div>
   );
 }
+

@@ -9,7 +9,7 @@ const Video = () => {
         autoPlay
         muted
 
-        src="src\assets\video1.mp4"
+        src="https://cdn.pixabay.com/video/2021/10/06/91069-628462649_large.mp4"
       ></video>
     </div>
     </div>
@@ -17,3 +17,4 @@ const Video = () => {
 }
 
 export default Video
+

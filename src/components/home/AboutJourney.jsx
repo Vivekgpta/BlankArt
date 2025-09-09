@@ -9,7 +9,8 @@ const AboutJourney = () => {
       <div className="bg-[#ffd6e5] m-6 shadow-black shadow-2xl rounded-4xl w-[90%] lg:w-1/2 h-full p-6">
         <img
           className="w-full rounded-4xl h-64 sm:h-80 lg:h-full object-cover hover:scale-105 transition-all duration-300 ease-in-out"
-          src="public\AboutUs\profile.jpg"
+          src="
+https://img.freepik.com/premium-photo/man-wearing-glasses-shirt-that-says-he-is-smiling_984237-62020.jpg"
           alt="journey"
         />
         <div className="mt-4 font-medium italic text-xl sm:text-2xl">

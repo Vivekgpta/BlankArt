@@ -29,7 +29,7 @@ const AboutMeCard = () => {
         `I'd do a little happy dance with every order!! SERIOUSLY, every single one!`,
         `It was never just a product, it was a tiny bundle of joy, made with love for both of us.`,
       ],
-      img: "https://live-in-paints.vercel.app/images/icon.webp",
+      img: "https://img.freepik.com/premium-photo/traditional-mask-dancer-with-colourful-costume_1048944-19025261.jpg?w=1480",
       reverse: false,
     },
      {
@@ -124,4 +124,5 @@ const AboutMeCard = () => {
 };
 
 export default AboutMeCard;
+
 

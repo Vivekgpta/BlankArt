@@ -9,7 +9,7 @@ const AboutJourney = () => {
       <div className="bg-[#ffd6e5] m-6 shadow-black shadow-2xl rounded-4xl w-[90%] lg:w-1/2 h-full p-6">
         <img
           className="w-full rounded-4xl h-64 sm:h-80 lg:h-full object-cover hover:scale-105 transition-all duration-300 ease-in-out"
-          src="https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg"
+          src="public\AboutUs\profile.jpg"
           alt="journey"
         />
         <div className="mt-4 font-medium italic text-xl sm:text-2xl">
@@ -48,3 +48,4 @@ const AboutJourney = () => {
 };
 
 export default AboutJourney;
+

@@ -10,7 +10,7 @@ const AboutMeCard = () => {
         `But then came that one order, the one that gave me hope.`,
         `That's when God gave me this idea and kept me going.`,
       ],
-      img: "https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg",
+      img: "https://img.freepik.com/premium-photo/man-wearing-glasses-shirt-that-says-he-is-smiling_984237-62020.jpg",
       reverse: false,
     },
     {
@@ -124,3 +124,4 @@ const AboutMeCard = () => {
 };
 
 export default AboutMeCard;
+

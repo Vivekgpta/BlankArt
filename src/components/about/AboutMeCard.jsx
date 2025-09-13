@@ -32,16 +32,6 @@ const AboutMeCard = () => {
       img: "https://img.freepik.com/premium-photo/traditional-mask-dancer-with-colourful-costume_1048944-19025261.jpg?w=1480",
       reverse: false,
     },
-     {
-      title: "The Beginning",
-      text: [
-        `I started making illustrations 4 years ago at just 16 (wow!) out of pure boredom during lockdown.`,
-        `But then came that one order, the one that gave me hope.`,
-        `That's when God gave me this idea and kept me going.`,
-      ],
-      img: "https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg",
-      reverse: false,
-    },
     {
       title: "Why Live in Paints",
       text: [
@@ -61,6 +51,16 @@ const AboutMeCard = () => {
       img: "https://live-in-paints.vercel.app/images/icon.webp",
       reverse: false,
     },
+     {
+      title: "The Beginning",
+      text: [
+        `I started making illustrations 4 years ago at just 16 (wow!) out of pure boredom during lockdown.`,
+        `But then came that one order, the one that gave me hope.`,
+        `That's when God gave me this idea and kept me going.`,
+      ],
+      img: "https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg",
+      reverse: true,
+    }
   ];
 
   return (
@@ -124,5 +124,6 @@ const AboutMeCard = () => {
 };
 
 export default AboutMeCard;
+
 
 

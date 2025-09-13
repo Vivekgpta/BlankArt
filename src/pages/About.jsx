@@ -47,9 +47,9 @@ const About = () => {
         xoxo
       </h1>
       <p className="mt-3 sm:mt-4 text-[#ff5c8f] font-medium text-lg sm:text-xl">
-        Rashveen Kaur
+        Vivek Gupta
       </p>
-      <p className="text-sm sm:text-base">(owner of live in paints)</p>
+      <p className="text-sm sm:text-base">(Owner of Blank Art)</p>
     </div>
   </motion.div>
 </div>
@@ -59,3 +59,4 @@ const About = () => {
 };
 
 export default About;
+

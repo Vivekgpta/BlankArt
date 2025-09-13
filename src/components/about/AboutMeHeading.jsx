@@ -12,7 +12,7 @@ const AboutMeHeading = () => {
         viewport={{ once: false, amount: 0.1 }}
       >
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-serif text-pink-950 font-bold leading-snug">
-          Hi, I am founder of Live In Paints,
+          Hi, I am founder of Blank Art,
         </h1>
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif text-[#ff5c8f] font-bold mt-2">
           Vivek
@@ -29,3 +29,4 @@ const AboutMeHeading = () => {
 };
 
 export default AboutMeHeading;
+

@@ -59,7 +59,7 @@ const AboutMeCard = () => {
         `That's when God gave me this idea and kept me going.`,
       ],
       img: "https://k72.ca/uploads/caseStudies/SHELTON/thumbnailimage_shelton-1280x960.jpg",
-      reverse: true,
+      reverse: false,
     }
   ];
 
@@ -124,6 +124,7 @@ const AboutMeCard = () => {
 };
 
 export default AboutMeCard;
+
 
 
 
